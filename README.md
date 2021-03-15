@@ -11,8 +11,6 @@ The aim of the project is to be able to perform analysis on US immigration data.
 
 
 ## Data
-you'll work with four datasets to complete the project. The main dataset will include data on immigration to the United States, and supplementary datasets will include data on airport codes, U.S. city demographics, and temperature data.
-
 ### Data sets
 - I94 Immigration Data: This data comes from the US National Tourism and Trade Office. A data dictionary is included in the workspace. <a href="https://travel.trade.gov/research/reports/i94/historical/2016.html">This</a> is where the data comes from. There's a sample file so you can take a look at the data in csv format before reading it all in. You do not have to use the entire dataset, just use what you need to accomplish the goal you set at the beginning of the project.
 - World Temperature Data: This dataset came from Kaggle. You can read more about it <a href="https://www.kaggle.com/berkeleyearth/climate-change-earth-surface-temperature-data">here</a>.
